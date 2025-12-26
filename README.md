@@ -35,4 +35,4 @@ python solution.py
 
 ## Important
 
-**Input files** are not committed to respect AoC's [automation guidelines](https://www.reddit.com/r/adventofcode/wiki/faqs/automation), any input file inside the repo is custom made and not the original.
+**Input files** are not committed to respect AoC's [Eric's Guidelines](https://adventofcode.com/about), any input file inside the repo is custom made and not the original.
